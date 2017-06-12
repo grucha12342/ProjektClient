@@ -1,0 +1,32 @@
+App5.FreeLoggedActivity, App5;md593b8d625023f6802361dd1b8a6546be5.FreeLoggedActivity
+App5.FreeLoggedActivity, App5, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md593b8d625023f6802361dd1b8a6546be5.FreeLoggedActivity
+App5.FreeLoggedActivity;md593b8d625023f6802361dd1b8a6546be5.FreeLoggedActivity
+app5.FreeLoggedActivity;md593b8d625023f6802361dd1b8a6546be5.FreeLoggedActivity
+App5.MainActivity, App5;md593b8d625023f6802361dd1b8a6546be5.MainActivity
+App5.MainActivity, App5, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md593b8d625023f6802361dd1b8a6546be5.MainActivity
+App5.MainActivity;md593b8d625023f6802361dd1b8a6546be5.MainActivity
+app5.MainActivity;md593b8d625023f6802361dd1b8a6546be5.MainActivity
+App5.LoggedActivity, App5;md593b8d625023f6802361dd1b8a6546be5.LoggedActivity
+App5.LoggedActivity, App5, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md593b8d625023f6802361dd1b8a6546be5.LoggedActivity
+App5.LoggedActivity;md593b8d625023f6802361dd1b8a6546be5.LoggedActivity
+app5.LoggedActivity;md593b8d625023f6802361dd1b8a6546be5.LoggedActivity
+App5.OwnProfileActivity, App5;md593b8d625023f6802361dd1b8a6546be5.OwnProfileActivity
+App5.OwnProfileActivity, App5, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md593b8d625023f6802361dd1b8a6546be5.OwnProfileActivity
+App5.OwnProfileActivity;md593b8d625023f6802361dd1b8a6546be5.OwnProfileActivity
+app5.OwnProfileActivity;md593b8d625023f6802361dd1b8a6546be5.OwnProfileActivity
+App5.RegisterActivity, App5;md593b8d625023f6802361dd1b8a6546be5.RegisterActivity
+App5.RegisterActivity, App5, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md593b8d625023f6802361dd1b8a6546be5.RegisterActivity
+App5.RegisterActivity;md593b8d625023f6802361dd1b8a6546be5.RegisterActivity
+app5.RegisterActivity;md593b8d625023f6802361dd1b8a6546be5.RegisterActivity
+App5.UserProfileActivity, App5;md593b8d625023f6802361dd1b8a6546be5.UserProfileActivity
+App5.UserProfileActivity, App5, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md593b8d625023f6802361dd1b8a6546be5.UserProfileActivity
+App5.UserProfileActivity;md593b8d625023f6802361dd1b8a6546be5.UserProfileActivity
+app5.UserProfileActivity;md593b8d625023f6802361dd1b8a6546be5.UserProfileActivity
+App5.Resources.ViewHolder, App5;md59bb74e48806eb19ac5b7a467aba92f53.ViewHolder
+App5.Resources.ViewHolder, App5, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59bb74e48806eb19ac5b7a467aba92f53.ViewHolder
+App5.Resources.ViewHolder;md59bb74e48806eb19ac5b7a467aba92f53.ViewHolder
+app5.resources.ViewHolder;md59bb74e48806eb19ac5b7a467aba92f53.ViewHolder
+App5.Resources.CustomAdapter, App5;md59bb74e48806eb19ac5b7a467aba92f53.CustomAdapter
+App5.Resources.CustomAdapter, App5, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59bb74e48806eb19ac5b7a467aba92f53.CustomAdapter
+App5.Resources.CustomAdapter;md59bb74e48806eb19ac5b7a467aba92f53.CustomAdapter
+app5.resources.CustomAdapter;md59bb74e48806eb19ac5b7a467aba92f53.CustomAdapter
